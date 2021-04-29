@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 git pull
 ln -s `pwd`/raspberrydev.zsh-theme ~/.oh-my-zsh/themes/
